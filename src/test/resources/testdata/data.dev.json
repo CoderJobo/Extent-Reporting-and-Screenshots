@@ -1,0 +1,17 @@
+{
+	"testdata":
+	[
+		{"testname": "LoginToMAndMDirect",
+			"iteration" : [
+				{
+					"username": "joanehickey@yahoo.ie",
+					"password": "P3anut5"
+				},
+				{
+					"username": "random.email@gmail.com",
+					"password": "Random12345!"
+				}
+			]
+		}
+	]
+}
